@@ -7,4 +7,5 @@
 
 ## Resultados
 [![Resultados_1](https://i.ibb.co/BKC9rpC/Cargando-imagen.png "Resultados_1")](https://i.ibb.co/BKC9rpC/Cargando-imagen.png "Resultados_1")
+------------
 [![Final](https://i.ibb.co/1qq6tV4/Escritorio.png "Final")](https://i.ibb.co/1qq6tV4/Escritorio.png "Final")
