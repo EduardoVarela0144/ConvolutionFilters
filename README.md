@@ -8,4 +8,4 @@
 ## Resultados
 [![Resultados_1](https://i.ibb.co/BKC9rpC/Cargando-imagen.png "Resultados_1")](https://i.ibb.co/BKC9rpC/Cargando-imagen.png "Resultados_1")
 ------------
-[![Final](https://i.ibb.co/1qq6tV4/Escritorio.png "Final")](https://i.ibb.co/1qq6tV4/Escritorio.png "Final")
+[![Final](https://res.cloudinary.com/dx2kgjjmf/image/upload/v1668320354/Escritorio_v8znon.png "Final")](https://res.cloudinary.com/dx2kgjjmf/image/upload/v1668320354/Escritorio_v8znon.png "Final")
